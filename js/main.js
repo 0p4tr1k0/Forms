@@ -1,4 +1,4 @@
-alert('Obsah kruhu nefunguje, nemohl jsem najít chybu ani s pomocí ostatních. Omluvte prosím tuto chybu.')
+alert('Obsah kruhu nefunguje, nemohl jsem najít chybu ani s pomocí ostatních. Omluvte prosím tuto chybu.\nProsil bych dodatečně o radu, jak to upravit, aby to fungovalo, děkuji.')
 let ctverecA = 0;
 let obdelnikA = 0;
 let obdelnikB = 0;
